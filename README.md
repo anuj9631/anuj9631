@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for Full time position **in any Dynamic organization**
 
-- 👨‍💻 All of my projects are available at [https://anujkumar-portfolio.netlify.app/#contact](https://anujkumar-portfolio.netlify.app/#contact)
+- 👨‍💻 All of my projects are available at [https://anujkr-portfolio.vercel.app/](https://anujkr-portfolio.vercel.app/)
 
 - 💬 Ask me about **Technology and Learning**
 
