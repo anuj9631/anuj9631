@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/anuj_ekghara" target="blank"><img src="https://img.shields.io/twitter/follow/anuj_ekghara?logo=twitter&style=for-the-badge" alt="anuj_ekghara" /></a> </p>
 
-- 🔭 I’m currently working on **Ai/Ml Project**
+- 🔭 I’m currently working on **Ai/Ml Projects**
 
-- 🌱 I’m currently learning **BCA(Bachelor Of Computer Application)**
+- 🌱 I’m currently learning **MCA(Master Of Computer Applications)**
 
 - 👯 I’m looking to collaborate on **Ai/Ml and MERN Project**
 
