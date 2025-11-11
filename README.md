@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/anuj_ekghara" target="blank"><img src="https://img.shields.io/twitter/follow/anuj_ekghara?logo=twitter&style=for-the-badge" alt="anuj_ekghara" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Ai/Ml Projects<br><br>🌱 I’m currently learning MCA(Master Of Computer Applications)<br><br>👯 I’m looking to collaborate on Ai/Ml and MERN Project<br><br>🤝 I’m looking for Full time position in any Dynamic organization<br><br>👨‍💻 All of my projects are available at https://anujkr-portfolio.vercel.app/<br><br>💬 Ask me about Technology and Learning<br><br>📫 How to reach me anuj98426@gmail.com<br><br>⚡ Fun fact I am Interested in Developing Cool stuffs.
+🔭 I’m currently working on Ai Based Full Stack Projects<br><br>🌱 I’m currently learning MCA(Master Of Computer Applications)<br><br>👯 I’m looking to collaborate on Ai/Ml and MERN Project<br><br>🤝 I’m looking for Full time position in any Dynamic organization<br><br>👨‍💻 All of my projects are available at https://anujkr-portfolio.vercel.app/<br><br>💬 Ask me about Technology and Learning<br><br>📫 How to reach me anuj98426@gmail.com<br><br>⚡ Fun fact I am Interested in Developing Cool stuffs.
 
 
 ## 🌐 Socials:
