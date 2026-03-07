@@ -1,83 +1,91 @@
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | AI & Automation Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/anuj9631">
-    <img src="https://komarev.com/ghpvc/?username=anuj9631&label=Profile%20Views&color=0e75b6&style=flat" alt="anuj9631" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=anuj9631&label=Profile%20Views&color=0e75b6&style=flat" alt="anuj9631" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently working on **AI Based Full Stack Projects**
+- 🔭 Currently building **AI Based Full Stack Projects**
 - 🌱 Pursuing **MCA (Master of Computer Applications)**
-- 🤝 Looking for **Full-time Software Developer Opportunities**
-- 👯 Open to collaboration on **AI/ML & MERN Projects**
-- 💬 Ask me about **Web Development, AI, and Problem Solving**
+- 🤝 Looking for **Full-Time Software Developer Opportunities**
+- 👯 Open to collaboration on **AI/ML, Automation & MERN Projects**
+- 💬 Ask me about **Web Development, AI APIs, Automation**
 - 📫 Reach me at **anuj98426@gmail.com**
-- ⚡ Fun fact: *I enjoy building cool and impactful tech products*
+- ⚡ I enjoy building **cool and useful tech products**
 
-🌐 Portfolio  
-👉 **https://anujkr-portfolio.vercel.app/**
+🌐 **Portfolio**  
+👉 https://anujkr-portfolio.vercel.app/
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/anuj-kumar9631" target="blank">
+
+<a href="https://linkedin.com/in/anuj-kumar9631">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/anuj_ekghara" target="blank">
+<a href="https://x.com/anuj_ekghara">
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:anuj98426@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 💻 Skills
 
-### 🚀 Languages
+### 🧠 Programming Languages
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-### 🌐 Frontend
+---
+
+### 🌐 Web Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
-### ⚙️ Backend
+---
+
+### ⚙️ Backend & Databases
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=php)
-
-### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
-### ☁️ Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+---
+
+### 🤖 AI & Automation
+- AI API Integration  
+- Workflow Automation  
+- AI-based Web Applications
+
+---
+
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-### 🤖 AI / Data Science
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+---
+
+### 🤝 Soft Skills
+- Analytical Thinking
+- Team Collaboration
+- Problem Solving
+- Communication
 
 ---
 
@@ -97,12 +105,12 @@
 
 ---
 
-# 🧠 Random Dev Quote
+# 🐍 3D GitHub Contribution Graph
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ **If you like my projects, consider giving them a star!**
