@@ -1,91 +1,72 @@
-<h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
+<h1 align="center">Hi 👋 I'm Anuj Kumar</h1>
 <h3 align="center">🚀 Full Stack Developer | AI & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuj9631&label=Profile%20Views&color=0e75b6&style=flat" alt="anuj9631" />
+<img src="https://komarev.com/ghpvc/?username=anuj9631&label=Profile%20Views&color=0e75b6&style=flat" alt="anuj9631"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🔭 Currently building **AI Based Full Stack Projects**
-- 🌱 Pursuing **MCA (Master of Computer Applications)**
-- 🤝 Looking for **Full-Time Software Developer Opportunities**
-- 👯 Open to collaboration on **AI/ML, Automation & MERN Projects**
-- 💬 Ask me about **Web Development, AI APIs, Automation**
-- 📫 Reach me at **anuj98426@gmail.com**
-- ⚡ I enjoy building **cool and useful tech products**
-
-🌐 **Portfolio**  
+🔭 I’m currently working on **AI Based Full Stack Projects**
+🌱 I’m currently pursuing **MCA (Master Of Computer Applications)**
+👯 I’m looking to collaborate on **AI/ML and MERN Projects**
+🤝 I’m looking for a **Full-Time Software Developer Role**
+👨‍💻 My projects are available at
 👉 https://anujkr-portfolio.vercel.app/
 
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/anuj-kumar9631">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/anuj_ekghara">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:anuj98426@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+💬 Ask me about **Technology, Web Development & AI Automation**
+📫 Reach me at **[anuj98426@gmail.com](mailto:anuj98426@gmail.com)**
+⚡ Fun fact: *I enjoy building cool and impactful tech products.*
 
 ---
 
-# 💻 Skills
+# 🌐 Socials
 
-### 🧠 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-
----
-
-### 🌐 Web Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/anuj-kumar9631/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=x\&logoColor=white\&style=for-the-badge)](https://x.com/anuj_ekghara)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:anuj98426@gmail.com)
 
 ---
 
-### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+# 💻 Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-### 🤖 AI & Automation
-- AI API Integration  
-- Workflow Automation  
-- AI-based Web Applications
+# 🤖 AI & Automation
+
+• Workflow Automation
+• AI API Integration
+• AI Based Web Applications
 
 ---
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+# 🤝 Soft Skills
 
----
-
-### 🤝 Soft Skills
-- Analytical Thinking
-- Team Collaboration
-- Problem Solving
-- Communication
+• Analytical Skills
+• Team Player
+• Problem Solving
+• Communication
 
 ---
 
@@ -100,15 +81,15 @@
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=anuj9631&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj9631&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🐍 3D GitHub Contribution Graph
+# 📈 GitHub Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuj9631&theme=tokyo-night"/>
 </p>
 
 ---
