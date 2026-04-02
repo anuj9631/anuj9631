@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anuj%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Anuj%20Kumar&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&amp;descAlignY=60&amp;descSize=18&amp;descColor=a78bfa" width="100%"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Full+Stack+Web+Applications+%F0%9F%9A%80;Integrating+AI+into+Everything+I+Touch+%F0%9F%A4%96;Currently+Pursuing+MCA+%F0%9F%8E%93;Open+to+Full-Time+Developer+Roles+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c29,100:302b63&amp;height=3&amp;section=header" width="100%"/>
 
 ## `< About Me />`
 
@@ -161,7 +161,7 @@ const anuj = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=a78bfa&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;text=Thanks+for+visiting!&amp;fontSize=24&amp;fontColor=a78bfa&amp;animation=twinkling&amp;fontAlignY=65" width="100%"/>
 
 **⭐ If you find my projects useful, a star goes a long way — thank you!**
 
