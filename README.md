@@ -133,9 +133,6 @@ const anuj = {
 
 ---
 
-## `< GitHub Stats />`
-
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anuj9631&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
 &nbsp;
