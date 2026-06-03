@@ -133,9 +133,6 @@ const anuj = {
 
 ---
 
-
----
-
 ## `< Contribution Graph />`
 
 <div align="center">
